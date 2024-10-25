@@ -1,0 +1,4 @@
+Key man service>create Keygen verify mac>search ec2>search iam>my security credentials>create access key>copy access key>paste all keys in main.tf>click done>search ec2>security groups>copy security group id and paste in nain.tf>enter key name master1>commands in terraform-terraform init
+  	terraform plan
+  	terraform apply
+  	terraform destroy
